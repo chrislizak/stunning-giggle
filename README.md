@@ -15,11 +15,14 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+Here is where I put in some information of my own.
+
 - Bulleted
 - List
 
 1. Numbered
 2. List
+3. Continued
 
 **Bold** and _Italic_ and `Code` text
 
